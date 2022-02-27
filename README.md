@@ -1,2 +1,2 @@
 # Company_Project
-Company with Departments and Employees in c++
+Company with Departments and Employees in C++
